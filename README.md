@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Henrycode06/Henrycode06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Bem vindo ao meu perfil ❤️
 
 Meu nome é Henry Miguel
